@@ -1,0 +1,9 @@
+[package]
+name = "hashkey-social-fi-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Decentralized autonomous reputation and social graph"
+license = "MIT"
+
+[dependencies]
